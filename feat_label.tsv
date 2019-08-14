@@ -1,4501 +1,577 @@
-fase		classe
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	grama
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	arvore
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	carro
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-treino	rua
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	carro
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	predio
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	rua
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	grama
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
-teste	arvore
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+treino
+
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
+teste
